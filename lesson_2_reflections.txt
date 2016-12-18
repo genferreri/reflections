@@ -5,3 +5,6 @@ How is the staging area different from the working directory and the repository?
 Stagin area is the previous step to the repository. It allows you to think if the change is worth to be saved. While in this area you can still look at the changes and compare them with prevous commits.
 
 How can you use the staging area to make sure you have one commit per logical change?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+While you can still keep working on your 'master' project, branches can help on developing side projects.
