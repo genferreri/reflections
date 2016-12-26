@@ -14,3 +14,7 @@ On seeing exiting branches and possible unreachable commits.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result brings changes coming from two different sources together. We represent it like this because is the merge of two different lines of results/thoughts.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+When you do it manually you are able to see the conflict. Doing it automatically could create a wrong decission.
